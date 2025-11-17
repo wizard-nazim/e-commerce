@@ -10,7 +10,7 @@ using api.Data;
 namespace api.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20251113102231_InitialCreate")]
+    [Migration("20251117114231_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
